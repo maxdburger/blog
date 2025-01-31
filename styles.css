@@ -14,8 +14,8 @@ body{
     margin: 0 auto;
 }
 
-a{
-    
+a:visited {
+    color: #3131ef;
 }
 
 h1{
